@@ -1,5 +1,5 @@
-# Svelte Workshop - Übung 1
-
+# Svelte Workshop - das Endergebnis
+Dieses Projekt enthält die fertige Svelte-Anwendung, die wir am Ende des Workshops umgesetzt haben.
 
 ## Installation
 Abhängigkeiten installieren ...
@@ -9,7 +9,7 @@ cd recipes-01
 npm install
 ```
 
-...den Dev-Server starten [Rollup](https://rollupjs.org):
+...Anwendung mit [Rollup](https://rollupjs.org) bauen und den Dev-Server starten:
 
 ```bash
 npm run dev
