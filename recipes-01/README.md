@@ -6,7 +6,7 @@ Die Ausgangslage für diese Übung stellt die Datei *App.svelte* dar. Hier wolle
 **App.svelte**
 
 1. Die Variable `title` im Markup einbinden
-2. Mit Hilfe von `{#each items as item} ... {/each}` über Zutaten iterrieren und sie, wie im Markup definiert, ausgeben
+2. Mit Hilfe von `{#each items as item} ... {/each}` über Zutaten iterieren und sie, wie im Markup definiert, ausgeben
 3. Innerhalb der Schleife die optionalen Properties mit `{#if condition} ... {/if}` einblenden
 4. Das Löschen einer Zutat implementieren. *Hinweis: Das `click`-Event kann mit der Direktive `on:click` abgefangen* werden. 
 
