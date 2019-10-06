@@ -1,5 +1,5 @@
 # Übung 3
-## Bindings, Slots, Event-Modifier und Transitions
+## Bindings, Slots, und Event-Modifier
 In dieser Übung habe ich euch bereits einiges an Schreibarbeit  abgenommen und einige Komponenten selbst implementiert. Eine Zutat ist nun zu einer eigenen Komponente geworden, `Ingredient.svelte`. Aus dem Trash-Icon-Button wurde ein `IconButton.svelte`, welches sich überall mit beliebigen Icons einsetzen lässt. Die dritte neue Komponente, um die sich diese Übung hauptsächlich dreht, heißt `IngredientInput.svelte`. Mit ihr soll am Ende der Übung eine neue Zutat angelegt und an die vorhandene Liste angehängt werden können.
 
 ## TODOs
