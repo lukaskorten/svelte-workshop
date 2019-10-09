@@ -47,7 +47,7 @@ dispatch('myevent', 'Hallo!');
 Abhängigkeiten installieren ...
 
 ```bash
-cd recipes-01
+cd recipes-02
 npm install
 ```
 
