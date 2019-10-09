@@ -1,6 +1,4 @@
 <script>
-  import Recipe from "./recipe/Recipe.svelte";
-
   let title = "American Pancakes";
   let ingredients = [
     { amount: 50, unit: "g", description: "Butter" },
